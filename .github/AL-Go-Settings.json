@@ -4,5 +4,6 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "versioningStrategy": 2,
   "useCompilerFolder": true,
-  "doNotPublishApps": true
+  "doNotPublishApps": true,
+  "templateSha": "28c060aecd801a24e69346bea0c3cb193f327183"
 }
